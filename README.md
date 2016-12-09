@@ -1,1 +1,1 @@
-** SkyKick CSS v2.1.0 **
+*** SkyKick CSS v2.1.0 ***
