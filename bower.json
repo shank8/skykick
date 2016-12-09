@@ -1,0 +1,21 @@
+{
+  "name": "SkyKick",
+  "homepage": "www.skykick.com",
+  "description": "The core CSS library for SkyKick, Inc.",
+  "main": "components.css",
+  "keywords": [
+    "skykick"
+  ],
+  "authors": [
+    "Matt Hintzke",
+    "Barry Maxwell"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
